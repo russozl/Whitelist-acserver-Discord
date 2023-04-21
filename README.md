@@ -1,7 +1,7 @@
 # Whitelist-acserver-Discord
 
 ## Description
-This project is a Discord bot that allows server administrators to manage a whitelist for an Assetto Corsa server. The bot uses the `!whitelist` command to add or remove players from the whitelist based on their Steam ID.
+This project is a Discord bot that allows server administrators to manage a whitelist for an Assetto Corsa server. The bot uses the `!whitelist` command to add or remove players from the whitelist based on their Steam ID. The whitelist is saved in a text file called `whitelist.txt`.
 
 ## Requirements
 - Python 3.x

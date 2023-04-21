@@ -23,7 +23,10 @@ Once the bot is running, server administrators can use it on their Discord serve
 - `!whitelist 'steamid'`: Adds or removes the player with the specified Steam ID from the Assetto Corsa server whitelist.
 
 ## Contributing
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request. Remember to keep the credits to the original author.
+
+## Credits
+This project was created by russozl. Contributions are welcome as long as the credits are kept.
 
 ## License
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information

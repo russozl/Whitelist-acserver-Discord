@@ -72,7 +72,7 @@ async def whitelist(ctx, code: str = None):
             # Saves the updated list to the whitelist.txt file
             save_whitelist(codes)
 
-            # Adiciona a role "passed" ao usuário
+            # Add the role "passed" to the user
             user = ctx.author
             role = discord.utils.get(user.guild.roles, name="passed")
             await user.add_roles(role)

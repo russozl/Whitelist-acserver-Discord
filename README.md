@@ -19,7 +19,7 @@ This project is a Discord bot that allows server administrators to manage a whit
 ## Usage
 To run the bot, use the command `python whitelist.py`.
 
-Once the bot is running, server administrators can use it on their Discord server with the following command:
+Once the bot is running, server user can use it on their Discord server with the following command:
 - `!whitelist 'steamid'`: Adds or removes the player with the specified Steam ID from the Assetto Corsa server whitelist.
 
 ## Contributing

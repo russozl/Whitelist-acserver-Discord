@@ -1,3 +1,9 @@
+# Whitelist-acserver-Discord
+# Author: russozl
+# Contact: russozl#1111
+#
+# Description: This script is a Discord bot that allows server administrators to manage a whitelist for an Assetto Corsa server.
+
 import discord
 from discord.ext import commands
 

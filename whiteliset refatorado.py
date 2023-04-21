@@ -74,5 +74,3 @@ async def whitelist(ctx, code: str = None):
             # Envia a mensagem no canal de "whitelist"
             await ctx.send(f"{ctx.author.mention}, whitelist liberada com sucesso! Por favor, siga para o canal de download para concluir a instalação.")
 
-
-client.run('MTA3NTgwNDIyNjU0ODE1NDQyOA.GleEQO.U3qrMFve4Fd2kQCuoW64UefcqktZMi-h4gYNRU') # substitua TOKEN pelo seu token de bot do Discord
